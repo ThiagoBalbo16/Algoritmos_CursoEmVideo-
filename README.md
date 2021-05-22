@@ -1,7 +1,7 @@
 # Algoritmos - Curso em Vídeo
 [Sobre](#sobre) | [Tecnologia](#tecnologia) | [Exercícios](#exercícios) | [About](#about) | [Technology](#technology) | [Exercises](#exercises)
 
-![](C:\Users\HP\Downloads\curso_em_video.jpg)
+![](https://camo.githubusercontent.com/83a3cdb4d4b72a031fba6fccbf3ab0e8982682a95b7d6a779e26358b746f87f6/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d2d695f5472562d737246492f56766a51577835766246492f41414141414141415244302f6f5262395539725a4f626b58786e5579674c677a2d2d735f4a6447784155616c512f73313630302f42414e4e45522e6a7067)
 
 ## Sobre
 
@@ -356,4 +356,4 @@ Algorithm that selects the main diagonal, upper triangle or lower triangle of th
 
 ##
 
-Developed by @ThiagoBalbo16
+Developed by [Thiago Balbo](https://github.com/ThiagoBalbo16)
