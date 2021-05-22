@@ -1,9 +1,9 @@
 algoritmo "Par_ou_Impar_Vetores"
 
-// Disciplina  : Curso de Lógica de Programação[Algoritmo]
+// Disciplina  : Curso de LÃ³gica de ProgramaÃ§Ã£o[Algoritmo]
 // Professor   : Gustavo Guanabara
-// Descrição   : Aula 14 – Vetores
-// Autor(a)    : Thaina Helena
+// DescriÃ§Ã£o   : Aula 14 â€“ Vetores
+// Autor(a)    : Thiago Balbo Batista
 // Ano         : 2020
 
 var
@@ -11,23 +11,23 @@ var
    i, TotE:inteiro
    
 inicio
-// Seção de Comandos
+// SeÃ§Ã£o de Comandos
 
    TotE <- 0
    Para i <- 1 ate 7 faca
-        Escreval("Digite um número inteiro para a posição", i, " do vetor")
+        Escreval("Digite um nÃºmero inteiro para a posiÃ§Ã£o", i, " do vetor")
         Leia(V[i])
         Se (V[i] % 2 = 0) entao
-           Escreval("Um número par!!!")
+           Escreval("Um nÃºmero par!!!")
            TotE <- TotE + 1
         senao
-           Escreval("Um número ímpar :(")
+           Escreval("Um nÃºmero Ã­mpar :(")
         FimSe
    FimPara
-   Escreval("Os números pares totalizam ", TotE, " e suas posições nos vetores são: ")
+   Escreval("Os nÃºmeros pares totalizam ", TotE, " e suas posiÃ§Ãµes nos vetores sÃ£o: ")
    Para i <- 1 ate 7 faca
         Se (V[i] % 2 = 0) entao
-           Escreval("Posição: ", i)
+           Escreval("PosiÃ§Ã£o: ", i)
         FimSe
    FimPara
    
