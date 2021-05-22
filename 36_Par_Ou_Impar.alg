@@ -1,8 +1,8 @@
 algoritmo "Par_ou_Impar"
 
-// Disciplina  : Curso de Lógica de Programação[Algoritmo]
+// Disciplina  : Curso de LÃ³gica de ProgramaÃ§Ã£o[Algoritmo]
 // Professor   : Gustavo Guanabara
-// Descrição   : Aula 12 – Procedimentos
+// DescriÃ§Ã£o   : Aula 12 â€“ Procedimentos
 // Autor(a)    : Thiago Balbo Batista
 // Ano         : 2020
 
@@ -12,16 +12,16 @@ var
    Procedimento ParOuImpar (V: Inteiro)
    inicio
          Se (V % 2 = 0) entao
-            Escreval("O número ", V, " é par.")
+            Escreval("O nÃºmero ", V, " Ã© par.")
          senao
-            Escreval("O número ", V, " é ímpar.")
+            Escreval("O nÃºmero ", V, " Ã© Ã­mpar.")
          FimSe
    FimProcedimento
    
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 
-   Escreval("Digite um número interio: ")
+   Escreval("Digite um nÃºmero inteiro: ")
    Leia(N)
    
    ParOuImpar(N)
